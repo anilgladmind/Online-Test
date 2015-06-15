@@ -1,0 +1,75 @@
+{
+	"test_name": "Welcome JavaScript Online Test",
+	"test_logo": "http://gladminds.co/wp-content/uploads/2015/01/gladminds-logo3.png",
+	"estimated_time": "30mins",
+	"total_marks": 13,
+	"total_questions": 13,
+	"questions": [
+		
+		{
+			"question": "JavaScript is which type language?",
+			"options": ["Scripting", "Application", "Programming", "None of These"],
+			"answer": 0
+		},
+		{
+			"question": "JavaScript is which Side Scripting Language?",
+			"options": ["Server", "ISP", "Browser", "None of These"],
+			"answer": 2
+		},
+		{
+			"question": "JavaScript is designed for following purpose?",
+			"options": ["To Style HTML Pages", "To Execute Query Related to DB on Server", "To add interactivity to HTML Pages.", "To Perform Server Side Scripting Opertion"],
+			"answer": 2
+		},
+		{
+			"question": "Cost for Using JavaScript in your HTML is _________ .",
+			"options": ["$5 / Year", "$15 / Year", "$10 / Year", "Its Free !!!"],
+			"answer": 3
+		},
+		{
+			"question": "JavaScript Code is written inside file having extension __________.",
+			"options": [".jsc", ".js", ".jvs", ".javascript"],
+			"answer": 1
+		},
+		{
+			"question": "Why JavaScript is called as Lightweight Programming Language ?",
+			"options": ["because we can add programming functionality inside JS", "because JS is client side scripting", "because JS can provide programming functionality inside but up to certain extend.", "because JS is available free of cost."],
+			"answer": 2
+		},
+		{
+			"question": "Local Browser used for validations on the Web Pages uses __________.",
+			"options": ["CSS", "HTML", "Java", "JS"],
+			"answer": 3
+		},
+		{
+			"question": "Which of the following Attribute is used to include External JS code inside your HTML Document ?",
+			"options": ["ext", "src", "script", "link"],
+			"answer": 1
+		},
+		{
+			"question": "Which attribute is used to specifies that the script is executed when the page has finished parsing (only for external scripts) ?",
+			"options": ["async", "defer", "parse", "type"],
+			"answer": 1
+		},
+		{
+			"question": "Which attribute is used to specify the character encoding used in an external script file.",
+			"options": ["type", "character", "None of These", "charset"],
+			"answer": 3
+		},
+		{
+			"question": "The async attribute can be set in the following ways ?",
+			"options": ["All of These", "<script async=''>", "<script async='async'>", "<script async>"],
+			"answer": 0
+		},
+		{
+			"question": "We use _______ style comment to prevent showing Java Script as Content in the old browsers.",
+			"options": ["CSS", "C", "JS", "HTML"],
+			"answer": 3
+		},
+		{
+			"question": "Which was the first browser to support JavaScript ?",
+			"options": ["Google Chrome", "Mozilla Firefox", "IE", "Netscape"],
+			"answer": 3
+		}
+	]
+}
